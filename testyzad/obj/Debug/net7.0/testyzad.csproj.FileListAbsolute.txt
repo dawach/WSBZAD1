@@ -1,0 +1,15 @@
+P:\Testyzad\testyzad\bin\Debug\net7.0\testyzad.exe
+P:\Testyzad\testyzad\bin\Debug\net7.0\testyzad.deps.json
+P:\Testyzad\testyzad\bin\Debug\net7.0\testyzad.runtimeconfig.json
+P:\Testyzad\testyzad\bin\Debug\net7.0\testyzad.dll
+P:\Testyzad\testyzad\bin\Debug\net7.0\testyzad.pdb
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.csproj.AssemblyReference.cache
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.GeneratedMSBuildEditorConfig.editorconfig
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.AssemblyInfoInputs.cache
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.AssemblyInfo.cs
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.csproj.CoreCompileInputs.cache
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.dll
+P:\Testyzad\testyzad\obj\Debug\net7.0\refint\testyzad.dll
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.pdb
+P:\Testyzad\testyzad\obj\Debug\net7.0\testyzad.genruntimeconfig.cache
+P:\Testyzad\testyzad\obj\Debug\net7.0\ref\testyzad.dll
